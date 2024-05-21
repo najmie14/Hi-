@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @najmie14
+- 👋 Hi, I’m najmie
 - 👀 I’m interested in code
 - 🌱 I’m currently learning everythings
 - 💞️ I’m looking to collaborate on git
